@@ -1,7 +1,5 @@
 package boardgame;
 
-import java.util.concurrent.ExecutionException;
-
 public class Board {
 
     private int rows;
